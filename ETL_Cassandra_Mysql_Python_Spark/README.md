@@ -8,3 +8,6 @@ A base de dados utilizada foi um arquivo CSV. Trata-se de um catálogo de filmes
 
 <https://www.kaggle.com/code/lucasnatali/netflix-movies-and-tv-shows>
 
+#### Normalizando os dados
+
+O dataset veio quando vários problemas.
