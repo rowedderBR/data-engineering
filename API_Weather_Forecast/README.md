@@ -4,14 +4,14 @@
 O código foi escrito em resposta ao desafio proposto pela empresa Dataside.
 
 
-**DESAFIO: CONSUMO DE DADOS PARA PREVISÃO DO TEMPO DAS CIDADES DO VALE DO PARAÍBA**
+##### **DESAFIO: CONSUMO DE DADOS PARA PREVISÃO DO TEMPO DAS CIDADES DO VALE DO PARAÍBA**
 
 
-**OBJETIVO**
+##### **Objetivo**
 
 Avaliar conhecimentos nas linguagens Python e SQL e na engine de processamento Apache Spark.
 
-**DESCRIÇÃO**
+###### **Descrição**
 
 Neste desafio, você desenvolverá um notebook que será responsável por extrair dados de previsão do tempo das cidades do Vale do Paraíba, região onde se localiza a Dataside. Para consultar todas as cidades dessa região, utilizaremos a API do IBGE. No caso, basta realizar uma requisição HTTP com o método GET, utilizando a URL abaixo:
 
@@ -29,7 +29,7 @@ Com os dados consultados, gerar um data frame e partir dele outra temp view. Ex:
 
 Com as temp views geradas, utilizar Spark SQL para criar queries e gerar data frames das seguintes tabelas:
 
-**TABELA 1**: dados de previsão do tempo para os próximos cinco dias, para cada data e cidade consultadas. As colunas dessa tabela serão:
+**Tabela 1:** dados de previsão do tempo para os próximos cinco dias, para cada data e cidade consultadas. As colunas dessa tabela serão:
 
 * Cidade
 
@@ -65,7 +65,7 @@ Com as temp views geradas, utilizar Spark SQL para criar queries e gerar data fr
 
 Obs.: Os valores da coluna "VaiChover" deverá ser "Sim" ou "Não". E a coluna "CodigoDaCidade" é o ID retornado junto com os nomes da cidades na API do IBGE. Obs.: Dependendo da API utilizada, algumas colunas podem não existir e ficarão em branco. Você deve optar por uma API que traga o maior número de informações possível.
 
-**TABELA 2**: quantidade de dias com chuva e sem chuva para os dias consultados, para cada data consultada. Colunas:
+**Tabela 2**: quantidade de dias com chuva e sem chuva para os dias consultados, para cada data consultada. Colunas:
 
 Cidade
 QtdDiasVaiChover
@@ -73,16 +73,16 @@ QtdDiasNaoVaiChover
 TotalDiasMapeados
 Essas tabelas deverão ser exportadas em formado CSV e entregue no final do desafio.
 
-**TO DO**
+**To Do**
 
 [ ] - Consultar municípios do Vale do Paraíba, gerar um data frame e criar uma temp view com esses dados. [ ] - Consultar dados do tempo para cada município, gerar um data frame e criar uma outra temp view. [ ] - Utilizar Spark SQL para gerar os data frames das Tabelas 1 e 2. [ ] - Exportar os data frames para CSV.
 
-**ATENÇÃO**
+**Atenção**
 
 Existe um limite de requisições de 10000 requests por conta cadastrada na m3o.
 Essa API pode retornar cidades de outras regiões que possuem nome semelhante a alguma cidade do Vale do Paraiba. Pode mantê-las ou filtrar para gerar as tabelas apenas com dados de Regiao = Sao Paulo. Fica a seu critério.
 
-**ENTREGANDO O DESAFIO**
+**Entregando o desafio**
 
 Concluindo todos os passos informados em To Do, basta salvar o arquivo .ipynb do notebook e enviar para a Dataside juntamente com os CSVs das duas tabelas.
 
