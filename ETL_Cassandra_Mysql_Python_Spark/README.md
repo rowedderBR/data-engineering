@@ -10,4 +10,9 @@ A base de dados utilizada foi um arquivo CSV. Trata-se de um catálogo de filmes
 
 #### Normalizando os dados
 
-O dataset veio quando vários problemas.
+O dataset veio com vários problemas:
+
+* Na coluna date_added o mês veio escrito por extenso ao invés de numérico. Exemplo: December 23, 2016.
+
+* Alguns meses vieram com dias que não existem. Exemplo: O mês de Abril tinha 31 dias.
+
