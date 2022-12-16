@@ -16,4 +16,4 @@ O dataset veio com vários problemas:
 
 * Alguns meses vieram com dias que não existem. Exemplo: o mês de Abril tinha 31 dias. A solução foi utilizar o replace para substituir o dia do mês inexistente por um existente.
 
-* Alguns dados vieram com aspas simples e duplas no meio do dado o que não permitia popular o banco com toda a base de dados. Na hora da inserção o Mysql entendia que havia colunas a mais e isso gerava erro. A solução foi remover algumas aspas simples e duplas utilizando o replace.
+* Alguns dados vieram com aspas simples e duplas no meio do dado o que não permitia popular o Mysql com os todos os dados. Na hora da inserção o Mysql entendia que havia colunas a mais e isso gerava erro. A solução foi remover algumas aspas simples e duplas utilizando o replace.
