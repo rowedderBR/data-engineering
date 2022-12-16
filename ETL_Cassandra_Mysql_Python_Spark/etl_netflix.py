@@ -9,7 +9,7 @@ from cassandra.cluster import Cluster
 
 # CRIANDO CONEXÃO COM O BANCO MYSQL
 
-def executar(query): #INSERT. UPDATE. DELETE
+def executar(query): #INSERT, UPDATE E DELETE
    try:
       con = mysql.connector.connect(user='root', password='123', host='localhost', database='filmes')
       cursor = con.cursor()
