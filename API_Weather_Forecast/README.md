@@ -1,6 +1,6 @@
 **INTRODUÇÃO**
 
-Esse código foi escrito em resposta a um desafio proposto pela empresa Dataside.
+Esse código foi escrito em resposta ao desafio proposto pela empresa Dataside.
 
 **Desafio: Consumo de Dados para Previsão do Tempo das Cidades do Vale do Paraíba**
 
