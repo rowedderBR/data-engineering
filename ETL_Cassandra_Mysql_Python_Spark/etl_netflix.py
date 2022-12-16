@@ -7,7 +7,9 @@ from pyspark.sql.types import *
 from cassandra.cluster import Cluster
 
 
-def executar(query):#INSERT. UPDATE. DELETE
+# CRIANDO CONEXÃO COM BANCO MYSQL
+
+def executar(query): #INSERT. UPDATE. DELETE
    try:
       con = mysql.connector.connect(user='root', password='123', host='localhost', database='filmes')
       cursor = con.cursor()
@@ -18,7 +20,7 @@ def executar(query):#INSERT. UPDATE. DELETE
    except Exception as e:
     print(e)
 
-def buscar(query):#SELECT
+def buscar(query): #SELECT
     try:
       con = mysql.connector.connect(user='root', password='123', host='127.0.0.1', database='filmes')
       cursor = con.cursor()
