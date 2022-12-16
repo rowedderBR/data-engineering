@@ -1,7 +1,7 @@
 **INTRODUÇÃO**
 
 
-O código foi escrito em resposta ao desafio proposto pela empresa Dataside no linkedin:
+O código foi escrito em resposta ao desafio proposto pela empresa Dataside:
 
 <https://www.dataside.com.br/>
 
