@@ -7,7 +7,7 @@ from pyspark.sql.types import *
 from cassandra.cluster import Cluster
 
 
-# CRIANDO CONEXÃO COM BANCO MYSQL
+# CRIANDO CONEXÃO COM O BANCO MYSQL
 
 def executar(query): #INSERT. UPDATE. DELETE
    try:
