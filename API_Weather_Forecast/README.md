@@ -4,14 +4,14 @@
 O código foi escrito em resposta ao desafio proposto pela empresa Dataside.
 
 
-##### **DESAFIO: CONSUMO DE DADOS PARA PREVISÃO DO TEMPO DAS CIDADES DO VALE DO PARAÍBA**
+**DESAFIO: CONSUMO DE DADOS PARA PREVISÃO DO TEMPO DAS CIDADES DO VALE DO PARAÍBA**
 
 
-##### **Objetivo**
+**Objetivo**
 
 Avaliar conhecimentos nas linguagens Python e SQL e na engine de processamento Apache Spark.
 
-###### **Descrição**
+**Descrição**
 
 Neste desafio, você desenvolverá um notebook que será responsável por extrair dados de previsão do tempo das cidades do Vale do Paraíba, região onde se localiza a Dataside. Para consultar todas as cidades dessa região, utilizaremos a API do IBGE. No caso, basta realizar uma requisição HTTP com o método GET, utilizando a URL abaixo:
 
