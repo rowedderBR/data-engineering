@@ -1,13 +1,11 @@
-#####INTRODUÇÃO
+**INTRODUÇÃO**
 
-Esse código escrito em resposta a um desafio proposto pela empresa Dataside aonde eu estava concorrendo uma vaga de Engenharia de Dados.
+Esse código foi escrito em resposta a um desafio proposto pela empresa Dataside.
 
-
-####Desafio: Consumo de Dados para Previsão do Tempo das Cidades do Vale do Paraíba
-
-**Desafio**: Consumo de Dados para Previsão do Tempo das Cidades do Vale do Paraíba.
+**Desafio: Consumo de Dados para Previsão do Tempo das Cidades do Vale do Paraíba**
 
 **Objetivo**
+
 Avaliar conhecimentos nas linguagens Python e SQL e na engine de processamento Apache Spark.
 
 **Descrição**
