@@ -1,10 +1,10 @@
-<h5><b>INTRODUÇÃO</b></h5>
+**INTRODUÇÃO**
 
 Esse código foi escrito em resposta ao desafio proposto pela empresa Dataside.
 
-<h4><b>Desafio: Consumo de Dados para Previsão do Tempo das Cidades do Vale do Paraíba</b></h4>
+**Desafio: Consumo de Dados para Previsão do Tempo das Cidades do Vale do Paraíba**
 
-<h5><b>Objetivo</b><h5>
+**Objetivo**
 
 Avaliar conhecimentos nas linguagens Python e SQL e na engine de processamento Apache Spark.
 
