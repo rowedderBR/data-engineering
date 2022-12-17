@@ -30,4 +30,10 @@ Os dados foram importados do banco de dados MySQL utilizando o mysql-connector-p
 ###
 **Ferramentas utilizadas**
 ###
+*python
+*Spark
+*MySQL
+*Cassandra
+*VSCode
+###
 **Conclusão**
