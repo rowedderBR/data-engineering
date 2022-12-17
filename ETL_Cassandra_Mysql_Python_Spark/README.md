@@ -1,10 +1,10 @@
 ### INTRODUÇÃO
 
-Nesse projeto foi aplicado o processo conhecido em Engenharia de dados como ETL: Extract, transform e load.
+Esse projeto tem o propósito de aprimorar os meus conhecimentos na área de engenharia de dados. Para alcançar tal objetivo utilizei as modernas ferramentas de processamento de dados ETL e Spark.
 
 #### Base de dados
 
-A base de dados utilizada foi um arquivo CSV. Trata-se de um catálogo de filmes da Netflix. Pode ser encontrada no Kaggle nesse endereço:
+Para realizar a análise utilizei uma base de dados pública da comunidade Kaggle, que está em formato CSV. O contéudo é um catálogo de filmes da empresa Netflix, que pode ser encontrado nesse linK:
 
 <https://www.kaggle.com/code/lucasnatali/netflix-movies-and-tv-shows>
 
