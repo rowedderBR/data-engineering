@@ -4,7 +4,7 @@ Esse projeto tem o propósito de aprimorar os meus conhecimentos na área de Eng
 ###
 #### Base de dados
 ###
-Para realizar a análise utilizei uma base de dados pública da comunidade Kaggle. O arquivo  que está no formato CSV e o contéudo é um catálogo de filmes da empresa Netflix. A base de dados pode ser encontrado através do link:
+Para realizar a análise utilizei uma base de dados pública da comunidade Kaggle. O arquivo  está no formato CSV e o contéudo é um catálogo de filmes da empresa Netflix. A base de dados pode ser encontrado através do link:
 ###
 <https://www.kaggle.com/code/lucasnatali/netflix-movies-and-tv-shows>
 ###
@@ -27,3 +27,7 @@ Após a correção e normalização, os dados foram transformados em um datafram
 **Importando os dados do Mysql e exportando para o banco não relacional Cassandra**
 ###
 Os dados foram importados do banco de dados Mysql utilizando o mysql-connector-python e enviados para o banco não relacional Cassandra através do conector cassandra-driver.
+###
+**Ferramentas utilizadas**
+###
+**Conclusão**
