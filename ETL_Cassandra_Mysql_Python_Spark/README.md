@@ -20,13 +20,13 @@ O dataset veio com vários problemas:
 ###
 * Alguns dados vieram com aspas simples e duplas no meio do texto o que não permitia popular o Mysql com os todos os dados. Na hora da inserção o Mysql entendia que havia colunas a mais e isso gerava erro. A solução foi remover algumas aspas simples e duplas utilizando o replace.
 ###
-**Exportando dados para o banco relacional Mysql**
+**Exportando dados para o banco relacional MySQL**
 ###
-Após a correção e normalização, os dados foram transformados em um dataframe spark e enviados para um banco de dados Mysql através do conector mysql-connector-python. 
+Após a correção e normalização, os dados foram transformados em um dataframe spark e enviados para um banco de dados MySQL através do conector mysql-connector-python. 
 ###
-**Importando os dados do Mysql e exportando para o banco não relacional Cassandra**
+**Importando os dados do MySQL e exportando para o banco não relacional Cassandra**
 ###
-Os dados foram importados do banco de dados Mysql utilizando o mysql-connector-python e enviados para o banco não relacional Cassandra através do conector cassandra-driver.
+Os dados foram importados do banco de dados MySQL utilizando o mysql-connector-python e enviados para o banco não relacional Cassandra através do conector cassandra-driver.
 ###
 **Ferramentas utilizadas**
 ###
