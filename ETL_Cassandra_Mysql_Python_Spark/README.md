@@ -4,7 +4,7 @@ Esse projeto tem o propósito de aprimorar os meus conhecimentos na área de eng
 ###
 #### Base de dados
 ###
-Para realizar a análise utilizei uma base de dados pública da comunidade Kaggle, que está em formato CSV. O contéudo é um catálogo de filmes da empresa Netflix, que pode ser encontrado nesse link:
+Para realizar a análise utilizei uma base de dados pública da comunidade Kaggle. O arquivo  que está no formato CSV e o contéudo é um catálogo de filmes da empresa Netflix. A base de dados pode ser encontrado através do link:
 ###
 <https://www.kaggle.com/code/lucasnatali/netflix-movies-and-tv-shows>
 ###
