@@ -1,6 +1,6 @@
-### INTRODUÇÃO
+#### INTRODUÇÃO
 ###
-Esse projeto tem o propósito de aprimorar os meus conhecimentos na área de engenharia de dados. Para alcançar tal objetivo utilizei as modernas ferramentas de processamento de dados ETL e Spark.
+Esse projeto tem o propósito de aprimorar os meus conhecimentos na área de Engenharia de Dados. Para alcançar tal objetivo utilizei as modernas ferramentas de processamento de dados ETL e Spark.
 ###
 #### Base de dados
 ###
