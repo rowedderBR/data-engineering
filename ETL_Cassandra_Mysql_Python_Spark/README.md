@@ -44,4 +44,4 @@ Os dados foram importados do banco de dados MySQL utilizando o mysql-connector-p
 ###
 **Conclusão**
 ###
-Através do projeto pude aprimorar os meus conhecimentos sobre tratamento e normalização de dados, a trabalhar com diferentes tipos de banco de dados e consolidar a minha aprendizagem do curso de Engenharia de dados.
+Através do projeto pude aprimorar os meus conhecimentos sobre tratamento e normalização de dados, a trabalhar com diferentes tipos de banco de dados e consolidar a minha aprendizagem do curso de Engenharia de Dados.
